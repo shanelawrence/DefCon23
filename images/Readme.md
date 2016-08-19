@@ -30,7 +30,7 @@ Board lower left quad. Note the mini-USB charging port, the battery and connecti
 
 ![Board lower left](./08-boardll.jpg)
 
-Parallax Procesor
+Parallax Processor
 
 ![Parallax](./09-parproc.jpg)
 
